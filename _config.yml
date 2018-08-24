@@ -3,14 +3,14 @@ title: 林书思
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Smallsherlly
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Linux / 技术分享
 url: "http://smallsherlly.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: Smallsherlly
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
