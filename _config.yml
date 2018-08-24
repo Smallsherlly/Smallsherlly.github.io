@@ -10,9 +10,10 @@ url: "http://smallsherlly.github.io"
 
 # Comment
 comment:
-    disqus: Smallsherlly
+    #disqus: Smallsherlly
     # uyan: 2143225  # 有言id,登录有言官网申请
-
+    intensedebate: 1
+    
 # Social
 social:
     weibo: 5366874726 
