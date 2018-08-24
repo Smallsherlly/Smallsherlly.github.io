@@ -16,7 +16,7 @@ comment:
     
 # Social
 social:
-    weibo: 5366874726 
+    #weibo: 5366874726 
     github: Smallsherlly
     # twitter: 
     mail: silence_xiaoxia@163.com
@@ -24,7 +24,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: 6e0fae397d01efe6657d36edb90bc2ab  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
