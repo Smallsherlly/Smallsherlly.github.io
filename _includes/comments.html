@@ -23,7 +23,16 @@
         })();
     </script>
     <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
-    
+  {% elsif site.comment.intensedebate %}
+	
+	<script>
+	var idcomments_acct = 'bf62d82e0c75479291be9da5b98255be';
+	var idcomments_post_id;
+	var idcomments_post_url;
+	</script>
+	<span id="IDCommentsPostTitle" style="display:none"></span>
+	<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>  
+  
   {% endif %}
 
 </section>
