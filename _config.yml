@@ -1,7 +1,7 @@
 # Basic
 title: flexible_pig
 subtitle: 上下求索
-description: 欢迎来到我的个人博客~
+description: 欢迎来到我的个人博客~哈哈
 # 头像里面的标题
 avatarTitle: Smallsherlly
 # 头像里面的描述
@@ -65,7 +65,7 @@ nav:
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 21
+paginate: 22
 paginate_path: "page/:num/"
 
 
